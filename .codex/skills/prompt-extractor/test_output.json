@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "format": "txt",
+    "original_count": 30,
+    "after_cleaning": 30,
+    "duplicates_removed": 0
+  },
+  "statistics": {
+    "total_prompts": 30,
+    "avg_length": 115.43333333333334,
+    "min_length": 97,
+    "max_length": 134,
+    "top_keywords": [
+      [
+        "photography",
+        19
+      ],
+      [
+        "lighting",
+        9
+      ],
+      [
+        "art",
+        9
+      ],
+      [
+        "and",
+        7
+      ],
+      [
+        "detailed",
+        6
+      ],
+      [
+        "style",
+        6
+      ],
+      [
+        "atmosphere",
+        5
+      ],
+      [
+        "dramatic",
+        5
+      ],
+      [
+        "portrait",
+        4
+      ],
+      [
+        "lens",
+        4
+      ],
+      [
+        "landscape",
+        4
+      ],
+      [
+        "colors",
+        4
+      ],
+      [
+        "natural",
+        4
+      ],
+      [
+        "background",
+        4
+      ],
+      [
+        "blue",
+        4
+      ],
+      [
+        "composition",
+        4
+      ],
+      [
+        "cinematic",
+        3
+      ],
+      [
+        "neon",
+        3
+      ],
+      [
+        "hour",
+        3
+      ],
+      [
+        "inspired",
+        3
+      ]
+    ]
+  },
+  "clusters": {
+    "cluster_0": [
+      "a portrait of a young woman, cinematic lighting, 85mm lens f/1.4, soft focus, ultra detailed, photorealistic, professional photography",
+      "beautiful landscape, mountain range at golden hour, dramatic clouds, wide angle lens, nature photography, sharp focus, HDR",
+      "macro photography of a flower, morning dew drops, shallow depth of field, natural lighting, bokeh background, highly detailed",
+      "street photography, candid moment, black and white, film grain, 35mm lens, documentary style, authentic emotion",
+      "minimalist product photography, white background, studio lighting, clean composition, commercial photography, high resolution",
+      "underwater scene, coral reef, tropical fish, blue water, sun rays penetrating water, marine photography, crystal clear",
+      "cozy coffee shop interior, warm ambient lighting, wooden furniture, plants, lifestyle photography, inviting atmosphere",
+      "desert landscape at sunset, sand dunes, long shadows, warm color palette, landscape photography, dramatic sky",
+      "fashion photography, model on runway, dramatic pose, high fashion, professional lighting, vogue style, editorial",
+      "urban architecture, modern building, geometric lines, blue hour photography, symmetrical composition, architectural photography"
+    ],
+    "cluster_1": [
+      "futuristic spaceship interior, sci-fi concept art, blue and white color scheme, volumetric lighting, 4k, octane render",
+      "oil painting of a still life, fruits on wooden table, classical composition, warm tones, rembrandt lighting, masterpiece",
+      "fantasy castle on a cliff, sunset, epic scale, matte painting, dramatic lighting, concept art, highly detailed architecture",
+      "cyberpunk portrait, woman with neon tattoos, dark background, purple and blue lighting, futuristic fashion, cinematic, 4k"
+    ],
+    "cluster_2": [
+      "anime style character, colorful hair, detailed eyes, studio ghibli inspired, digital art, vibrant colors, trending on artstation",
+      "abstract digital art, geometric shapes, gradient colors, modern art, minimalist design, 8k wallpaper",
+      "enchanted forest, misty atmosphere, rays of light through trees, magical mood, fantasy art, detailed foliage",
+      "retro 80s aesthetic, vaporwave style, pink and cyan colors, grid patterns, nostalgic, digital art",
+      "post-apocalyptic cityscape, overgrown buildings, nature reclaiming civilization, moody atmosphere, concept art",
+      "art deco interior design, gold and marble, geometric patterns, luxury, 1920s inspired, elegant composition"
+    ],
+    "cluster_3": [
+      "steampunk mechanism, gears and brass, intricate details, victorian era inspired, sepia tones, technical illustration"
+    ],
+    "cluster_other": [
+      "cyberpunk city at night, neon lights reflecting on wet streets, rain, cinematic atmosphere, 8k, Unreal Engine, hyperrealistic",
+      "portrait of an elderly man, wisdom in eyes, natural wrinkles, storytelling portrait, medium format, shallow depth of field",
+      "japanese garden, cherry blossoms, koi pond, traditional architecture, serene atmosphere, spring season, peaceful"
+    ]
+  },
+  "all_prompts": [
+    "a portrait of a young woman, cinematic lighting, 85mm lens f/1.4, soft focus, ultra detailed, photorealistic, professional photography",
+    "cyberpunk city at night, neon lights reflecting on wet streets, rain, cinematic atmosphere, 8k, Unreal Engine, hyperrealistic",
+    "beautiful landscape, mountain range at golden hour, dramatic clouds, wide angle lens, nature photography, sharp focus, HDR",
+    "anime style character, colorful hair, detailed eyes, studio ghibli inspired, digital art, vibrant colors, trending on artstation",
+    "macro photography of a flower, morning dew drops, shallow depth of field, natural lighting, bokeh background, highly detailed",
+    "futuristic spaceship interior, sci-fi concept art, blue and white color scheme, volumetric lighting, 4k, octane render",
+    "oil painting of a still life, fruits on wooden table, classical composition, warm tones, rembrandt lighting, masterpiece",
+    "street photography, candid moment, black and white, film grain, 35mm lens, documentary style, authentic emotion",
+    "fantasy castle on a cliff, sunset, epic scale, matte painting, dramatic lighting, concept art, highly detailed architecture",
+    "minimalist product photography, white background, studio lighting, clean composition, commercial photography, high resolution",
+    "portrait of an elderly man, wisdom in eyes, natural wrinkles, storytelling portrait, medium format, shallow depth of field",
+    "underwater scene, coral reef, tropical fish, blue water, sun rays penetrating water, marine photography, crystal clear",
+    "cyberpunk portrait, woman with neon tattoos, dark background, purple and blue lighting, futuristic fashion, cinematic, 4k",
+    "cozy coffee shop interior, warm ambient lighting, wooden furniture, plants, lifestyle photography, inviting atmosphere",
+    "abstract digital art, geometric shapes, gradient colors, modern art, minimalist design, 8k wallpaper",
+    "desert landscape at sunset, sand dunes, long shadows, warm color palette, landscape photography, dramatic sky",
+    "steampunk mechanism, gears and brass, intricate details, victorian era inspired, sepia tones, technical illustration",
+    "fashion photography, model on runway, dramatic pose, high fashion, professional lighting, vogue style, editorial",
+    "enchanted forest, misty atmosphere, rays of light through trees, magical mood, fantasy art, detailed foliage",
+    "urban architecture, modern building, geometric lines, blue hour photography, symmetrical composition, architectural photography",
+    "food photography, gourmet dish, garnished beautifully, shallow depth of field, natural light, appetizing presentation",
+    "space nebula, stars and cosmic dust, deep space photography, vibrant colors, Hubble telescope style, astronomical",
+    "retro 80s aesthetic, vaporwave style, pink and cyan colors, grid patterns, nostalgic, digital art",
+    "wildlife photography, tiger in natural habitat, golden hour light, telephoto lens, national geographic style",
+    "post-apocalyptic cityscape, overgrown buildings, nature reclaiming civilization, moody atmosphere, concept art",
+    "japanese garden, cherry blossoms, koi pond, traditional architecture, serene atmosphere, spring season, peaceful",
+    "neon sign close-up, glowing letters, dark background, urban photography, bokeh effect, night scene",
+    "hyperrealistic eye close-up, detailed iris, reflections, macro photography, extreme detail, beauty photography",
+    "art deco interior design, gold and marble, geometric patterns, luxury, 1920s inspired, elegant composition",
+    "mountain climber on peak, dramatic landscape, achievement moment, adventure photography, wide vista, inspiring"
+  ]
+}

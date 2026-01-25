@@ -3,7 +3,6 @@ anthropic>=0.7.0
 pyyaml>=6.0
 
 # Database
-sqlite3  # Built-in with Python
 
 # Optional: For advanced features
 # requests>=2.28.0  # If you add web fetching
